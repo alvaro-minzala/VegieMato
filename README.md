@@ -21,6 +21,8 @@ broke for now since it's being rebuilt for OS X :(
 more documentation when apk file is released
 but you need to enable "unknown sources" since it's not on the Google Play Store
 
+## System Requirements
+https://gist.github.com/alvaro-minzala/cca5cf2f7997abe0516e75bf4fbda2f8
 
 ## Updates made to this fork:
 -New! Android™️ Support(Better with Android 7!, but works with Android 4.4.2 or newer, idk anyone using android older than 4.3 but this is for safety)
