@@ -15,4 +15,12 @@ After installing Xcode, follow thses steps:
 8. After the app is finished running, you can unplug your device. The app has been successfully installed.
 
 ## How to install on MacOS
-Go to the [Releases](https://github.com/MysteryCoder456/VegieMato/releases) to find the MacOS binary/App. You can directly run this without any installation, but you can also build the App from Xcode.
+broke for now since it's being rebuilt for OS X :(
+
+
+Updates made to this fork:
+-New! Android™️ Support(Better with Android 7!, but works with Android 4.4.2 or newer, idk anyone using android older than 4.3 but this is for safety)
+-Support for iOS 9.3 or newer(rebuilt app, broke for now, wip because my mac has broke)
+-Support for OS X 10.11 or newer(rebuilt app, broke for now and a wip because of the same reason)
+-iOS app will be downloadable from jailbreaks.app and AltStore
+-Android .apk file will be downloadable when finished.
