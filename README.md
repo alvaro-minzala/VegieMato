@@ -2,7 +2,7 @@
 A Delivery App for Indian Vegetable Vendors. **WARNING** - This app only works on devices running iOS or iPadOS 13 and above, and MacOS 10.15 and above!
 for the existing apps
 ## How to Install on iOS or iPadOS Devices
-This app is currently not on the app store, so you will require Xcode to install it to your device. Xcode is only available on MacOS, but you do not require a Mac Computer. You can also use a Virtual Machine as long as you can install Xcode on it.<br>
+This app is currently not on the app store, so you will require Xcode to install it to your device. Xcode is only available on MacOS, so if you want it buy a second-hand or refurbished Mac and do not hackintosh, it's illegal.
 After installing Xcode, follow thses steps:
 
 1. Connect your iDevice to your computer using a USB cable.
@@ -29,5 +29,4 @@ https://gist.github.com/alvaro-minzala/cca5cf2f7997abe0516e75bf4fbda2f8
 -New! Windows®️ Program(Better with Windows 11)
 -Support for iOS 9.3 or newer(rebuilt app, broke for now, wip because my mac has broke)
 -Support for OS X 10.11 or newer(rebuilt app, broke for now and a wip because of the same reason)
--iOS app will be downloadable from jailbreaks.app and AltStore
 -Android .apk file will be downloadable when finished.
