@@ -5,14 +5,7 @@ for the existing apps
 This app is currently not on the app store, so you will require Xcode to install it to your device. Xcode is only available on MacOS, so if you want it buy a second-hand or refurbished Mac and do not hackintosh, it's illegal.
 After installing Xcode, follow thses steps:
 
-1. Connect your iDevice to your computer using a USB cable.
-2. Download or Clone this repo.
-3. On the Xcode startup screen, select `Open another project...` on the bottom-right corner of the window.
-4. Navigate to the location that this repo was downloaded to and open it.
-5. On the top-left corner of the window that opens (showing the code and other things) next to the start and stop buttons, click the button that shows the name of the latest iPhone (example `iPhone 13 mini`) and select your iDevice from the list.
-6. Then, unlock your iDevice and click the `Trust` button on the Pop-Up menu.
-7. Click the start button on the top-left corner of the screen and wait for the app to run.
-8. After the app is finished running, you can unplug your device. The app has been successfully installed.
+broke since it's being rebuilt in UIKit :(
 
 ## How to install on MacOS
 broke for now since it's being rebuilt for OS X :(
